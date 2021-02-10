@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/electrikittens/static/css/main.af66f778.chunk.css",
+    "main.js": "/electrikittens/static/js/main.40ac5e0a.chunk.js",
+    "main.js.map": "/electrikittens/static/js/main.40ac5e0a.chunk.js.map",
+    "runtime-main.js": "/electrikittens/static/js/runtime-main.008c7765.js",
+    "runtime-main.js.map": "/electrikittens/static/js/runtime-main.008c7765.js.map",
+    "static/css/2.31461e4f.chunk.css": "/electrikittens/static/css/2.31461e4f.chunk.css",
+    "static/js/2.82a18cd0.chunk.js": "/electrikittens/static/js/2.82a18cd0.chunk.js",
+    "static/js/2.82a18cd0.chunk.js.map": "/electrikittens/static/js/2.82a18cd0.chunk.js.map",
+    "static/js/3.a3364840.chunk.js": "/electrikittens/static/js/3.a3364840.chunk.js",
+    "static/js/3.a3364840.chunk.js.map": "/electrikittens/static/js/3.a3364840.chunk.js.map",
+    "index.html": "/electrikittens/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/electrikittens/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.af66f778.chunk.css.map": "/electrikittens/static/css/main.af66f778.chunk.css.map",
+    "static/js/2.82a18cd0.chunk.js.LICENSE.txt": "/electrikittens/static/js/2.82a18cd0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/electrikittens/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.008c7765.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.82a18cd0.chunk.js",
+    "static/css/main.af66f778.chunk.css",
+    "static/js/main.40ac5e0a.chunk.js"
+  ]
+}
